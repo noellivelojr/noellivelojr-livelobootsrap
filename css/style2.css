@@ -1,0 +1,17 @@
+body{
+	padding: 0px;
+	background-color: #575A6C;
+}
+
+.container1{
+	padding: 50px; 
+	background-color: #ECE6ED; 
+	position: relative;
+	left: 33%;
+	right: 50%;
+	height: 450px;
+	width: 500px;
+	border: 2px solid #000000; 
+	border-radius:2%; 
+	overflow: hidden;}
+
